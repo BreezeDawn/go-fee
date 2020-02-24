@@ -1,0 +1,15 @@
+<template>
+  <div id="app">
+    hello world
+  </div>
+</template>
+
+<script type="text/ecmasript-6">
+
+</script>
+
+<style lang="stylus" scoped rel="stylesheet/stylus">
+  @import "~common/stylus/variable";
+  #app
+    color: $color-theme
+</style>
